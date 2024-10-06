@@ -6754,5 +6754,2553 @@
         "description": "The story is set several years after Devil May Cry 4. Legendary DMC action returns, made all the more stylish by the power modern gaming has to offer.",
         "developer": "Developer: Capcom",
         "Platforms": "Platforms: Amazon Luna, PC, PlayStation 4, Xbox One"
+    },
+    {
+        "name": "Sackboy™: A Big Adventure",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "11 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "17 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "33½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "15 Hours"
+            }
+        ],
+        "description": "Sackboy: A Big Adventure is a Action, Platform game, developed by Sumo Digital and published by PlayStation Studios, which was released in 2020.",
+        "developer": "Developer: Sumo Digital",
+        "Platforms": "Platforms: PC, PlayStation 4, PlayStation 5"
+    },
+    {
+        "name": "Lies of P",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "29½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "36 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "58½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "36½ Hours"
+            }
+        ],
+        "description": "FIght against powerful foes and lie at every chance you get towards humanity. Lies of P will usher in a new age in the souls-like genre.",
+        "developer": "Developer: Round8 Studio",
+        "Platforms": "Platforms: Mac, PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S"
+    },
+    {
+        "name": "Bomb Rush Cyberfunk",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "10 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "13 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "23½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "13 Hours"
+            }
+        ],
+        "description": "Team Reptile brings you Bomb Rush Cyberfunk, 1 second per second of highly advanced funkstyle. In a world from the mind of Dion Koster, where self-styled crews are equipped with personal boostpacks, new heights of graffiti are reached. Start your own cypher and dance, paint, trick, face off with the cops and stake your claim to the extrusions and cavities of a sprawling metropolis in an alternate future set to the musical brainwaves of Hideki Naganuma. ",
+        "developer": "Developer: Team Reptile",
+        "Platforms": ""
+    },
+    {
+        "name": "Blasphemous 2",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "16 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "20 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "24½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "20½ Hours"
+            }
+        ],
+        "description": "The Penitent One awakens as Blasphemous 2 joins him once again in an endless struggle against The Miracle. Dive into a perilous new world filled with mysteries and secrets to discover, and tear your way through monstrous foes that stand between you and your quest to end the cycle once and for all.",
+        "developer": "Developer: The Game Kitchen",
+        "Platforms": ""
+    },
+    {
+        "name": "Blasphemous",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "14 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "19½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "29½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "19 Hours"
+            }
+        ],
+        "description": "Blasphemous is a punishing action-platformer that combines the fast-paced, skilled combat of a hack-n-slash game with a deep and evocative narrative core, delivered through exploration of a huge universe comprised of non-linear levels.",
+        "developer": "Developer: The Game Kitchen",
+        "Platforms": "Platforms: Linux, Mac, Nintendo Switch, PC, PlayStation 4, Xbox One"
+    },
+    {
+        "name": "Batman™: Arkham Knight",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "17 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "31½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "51 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "30½ Hours"
+            }
+        ],
+        "description": "Batman: Arkham Knight brings the award-winning Arkham trilogy from Rocksteady Studios to its epic conclusion. Developed exclusively for New-Gen platforms, Batman: Arkham Knight introduces Rocksteady's uniquely designed version of the Batmobile. The highly anticipated addition of this legendary vehicle, combined with the acclaimed gameplay of the Arkham series, offers gamers the ultimate and complete Batman experience as they tear through the streets and soar across the skyline of the entirety of Gotham City. In this explosive finale, Batman faces the ultimate threat against the city that he is sworn to protect, as Scarecrow returns to unite the super criminals of Gotham and destroy the Batman forever. ",
+        "developer": "Developer: Rocksteady Studios",
+        "Platforms": "Platforms: PC, PlayStation 4, Xbox One"
+    },
+    {
+        "name": "Alan Wake Remastered",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "10½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "14 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "24½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "12½ Hours"
+            }
+        ],
+        "description": "An intense psychological thriller, Alan Wake creates a true cinematic experience. Explore an expansive world filled with missions, unique puzzles, intense combat, and horrifying enemies. Dig into a twisting and multi-layered story filled with suspense, engaging characters, and shocking revelations.",
+        "developer": "Developer: Remedy Entertainment",
+        "Platforms": ""
+    },
+    {
+        "name": "A Hat in Time",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "9½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "15 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "18½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "14 Hours"
+            }
+        ],
+        "description": "A Hat in Time follows the character of Hat Kid, a young girl that is capable of interstellar travel due to her possessing a magical hat. She's tasked with the goal of keeping time from being irrevocably broken and must accomplish this by way of collecting \"time pieces\" before the evil Mustache Girl can get her hands on them.",
+        "developer": "Developer: Gears for Breakfast",
+        "Platforms": "Platforms: Mac, Nintendo Switch, PC, PlayStation 4, Xbox One"
+    },
+    {
+        "name": "Spelunky",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "20 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "44 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "94 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "38 Hours"
+            }
+        ],
+        "description": "An unnamed protagonist must explore an increasingly dangerous system of caves, collecting loot and better equipment along the way.",
+        "developer": "Developers: Derek Yu, Andy Hull",
+        "Platforms": ""
+    },
+    {
+        "name": "The Walking Dead: The Telltale Definitive Series",
+        "details": [
+            {
+                "title": "Single-Player",
+                "time": "41½ Hours - 48½ Hours"
+            }
+        ],
+        "description": "Play the series that revolutionized storytelling in games. The Walking Dead: The Telltale Definitive Series contains all 4 Seasons, 400 DAYS DLC, and The Walking Dead: Michonne. Experience the full story of young survivor Clementine as she grows from scared little girl to capable survivor. A light of hope in a dark world, Clementine goes through many protectors and weathers many threats, learning to fight back in an apocalypse where the weak are crushed and the cruel get results. Always at a disadvantage, Clementine must outsmart and out-will foes stronger than her, and become one of the toughest people still alive, despite her small stature. It's up to you how much Clementine trusts, who she loves, who she hurts, and what she chooses to protect when you cannot save everyone. ",
+        "developer": "Developer: Skybound Games",
+        "Platforms": "Platforms: PC, PlayStation 4, Xbox One"
+    },
+    {
+        "name": "The Casting of Frank Stone™",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "6 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "7 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "10 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "7 Hours"
+            }
+        ],
+        "description": "The shadow of Frank Stone looms over Cedar Hills, a town forever altered by his violent past. As a group of young friends are about to discover, Stone’s blood-soaked legacy cuts deep, leaving scars across families, generations, and the very fabric of reality itself.",
+        "developer": "Developer: Supermassive Games",
+        "Platforms": "Platforms: PC, PlayStation 5, Xbox Series X/S"
+    },
+    {
+        "name": "Super Mario Odyssey™",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "12½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "27 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "62 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "25½ Hours"
+            }
+        ],
+        "description": "Mario embarks on a new journey through unknown worlds, running and jumping through huge 3D worlds in the first sandbox-style Mario game since Super Mario 64 and Super Mario Sunshine. Set sail between expansive worlds aboard an airship, and perform all-new actions, such as throwing Mario's cap.",
+        "developer": "Developer: Nintendo",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Sea of Stars",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "28 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "35 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "43 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "35½ Hours"
+            }
+        ],
+        "description": "Sea of Stars is a turn-based RPG inspired by the classics. It tells the story of two Children of the Solstice who will combine the powers of the sun and moon to perform Eclipse Magic, the only force capable of fending off the monstrous creations of the evil alchemist known as The Fleshmancer.",
+        "developer": "Developer: Sabotage Studio",
+        "Platforms": ""
+    },
+    {
+        "name": "Alien: Isolation",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "18½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "22½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "34 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "21 Hours"
+            }
+        ],
+        "description": "Discover the true meaning of fear in Alien: Isolation, a survival horror set in an atmosphere of constant dread and mortal danger. Fifteen years after the events of Alien, Ellen Ripley's daughter, Amanda enters a desperate battle for survival, on a mission to unravel the truth behind her mother's disappearance.",
+        "developer": "Developer: The Creative Assembly",
+        "Platforms": ""
+    },
+    {
+        "name": "The Last Alchemist",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "--"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "7 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "--"
+            },
+            {
+                "title": "All Styles",
+                "time": "7 Hours"
+            }
+        ],
+        "description": "Master the wonders of alchemy! Solve alchemical puzzles by transforming and combining Essences. Craft items, tools and machines. Explore the enchanting world, gather peculiar resources, and befriend the Agari, adorable mushroom folk who will help you find the cure for your mysterious disease.",
+        "developer": "Developer: Vile Monarch",
+        "Platforms": "Platform: PC"
+    },
+    {
+        "name": "Please, Don't Touch Anything 3D",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "1½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "3 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "3½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "3 Hours"
+            }
+        ],
+        "description": "A brain-racking game about bathroom breaks, screwdrivers and nuclear explosions now reimagined in full 3D.",
+        "developer": "Developers: Escalation Studios, Four Quarters",
+        "Platforms": "Platforms: Mobile, Nintendo Switch, Oculus Go, PC, PlayStation 4, Xbox One"
+    },
+    {
+        "name": "Pacific Drive",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "20½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "31½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "48 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "29½ Hours"
+            }
+        ],
+        "description": "Pacific Drive is a first-person driving survival game set in the pacific northwest region of the United States. With your car as your only companion, you'll travel deep into the Olympic Exclusion Zone - a surreal and mysterious place that's been abandoned for decades.",
+        "developer": "Developer: Ironwood",
+        "Platforms": "Platforms: PC, PlayStation 5"
+    },
+    {
+        "name": "NBA 2K23",
+        "details": [
+            {
+                "title": "Single-Player",
+                "time": "23 Hours - 171 Hours"
+            },
+            {
+                "title": "Co-Op",
+                "time": "70½ Hours"
+            },
+            {
+                "title": "Vs.",
+                "time": "68 Hours"
+            }
+        ],
+        "description": "Rise to the occasion in NBA 2K23. Showcase your talent in MyCAREER. Pair All-Stars with timeless legends in MyTEAM. Build your own dynasty in MyGM, or guide the NBA in a new direction with MyLEAGUE. Take on NBA or WNBA teams in PLAY NOW and feel true-to-life gameplay.",
+        "developer": "Developer: Visual Concepts",
+        "Platforms": ""
+    },
+    {
+        "name": "Five Nights at Freddy's: Into the Pit",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "4 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "5½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "12 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "5½ Hours"
+            }
+        ],
+        "description": "Survive five nights of terror in this chilling adventure game. Travel between time periods to solve puzzles, gather clues, and outrun the threat relentlessly pursuing you. Move swiftly and stay hidden, and you may just survive. But be careful—it's not just your own life that’s on the line this time.",
+        "developer": "Developer: Mega Cat Studios",
+        "Platforms": ""
+    },
+    {
+        "name": "Forza Horizon 5",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "21 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "43½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "121 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "39½ Hours"
+            }
+        ],
+        "description": "Your Ultimate Horizon Adventure awaits! Explore the vibrant and ever-evolving open-world landscapes of Mexico with limitless, fun driving action in hundreds of the world’s greatest cars.",
+        "developer": "Developer: Playground Games",
+        "Platforms": "Platforms: PC, Xbox One, Xbox Series X/S"
+    },
+    {
+        "name": "Farming Simulator 22",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "178 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "--"
+            },
+            {
+                "title": "Completionist",
+                "time": "251 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "241 Hours"
+            }
+        ],
+        "description": "Create your farm and let the good times grow! Harvest crops, tend to animals, manage productions, and take on seasonal challenges.",
+        "developer": "Developer: Giants Software",
+        "Platforms": ""
+    },
+    {
+        "name": "Crime Scene Cleaner",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "11 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "12½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "14½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "13½ Hours"
+            }
+        ],
+        "description": "Once you get tangled with the mob, you will forever be a part of the mob. At least they pay a decent salary and all you have to do is clean up after their dirty work, but you know what you’re doing. So clean crime scenes, outsmart the police, and get ready for the next mission.",
+        "developer": "Developer: President Studio",
+        "Platforms": "Platform: PC"
+    },
+    {
+        "name": "Balatro",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "7 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "38 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "186 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "18 Hours"
+            }
+        ],
+        "description": "The poker roguelike. Balatro is a hypnotically satisfying deckbuilder where you play illegal poker hands, discover game-changing jokers, and trigger adrenaline-pumping, outrageous combos.",
+        "developer": "Developer: LocalThunk",
+        "Platforms": ""
+    },
+    {
+        "name": "A Difficult Game About Climbing",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "7 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "7 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "7 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "7 Hours"
+            }
+        ],
+        "description": "This is a difficult game about climbing.",
+        "developer": "Developer: Pontypants",
+        "Platforms": "Platform: PC"
+    },
+    {
+        "name": "Thank Goodness You're Here!",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "2½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "3 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "4½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "3 Hours"
+            }
+        ],
+        "description": "Thank Goodness You're Here! is an absurd comedy slapformer set in the bizarre Northern English town of Barnsworth. As a traveling salesman, take the time to see the sights and meet the locals, who are very eager to give you a series of increasingly odd jobs…",
+        "developer": "Developer: Coal Supper",
+        "Platforms": "Platforms: Nintendo Switch, PC, PlayStation 4, PlayStation 5"
+    },
+    {
+        "name": "Totally Accurate Battle Simulator",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "8½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "17 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "30½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "17 Hours"
+            }
+        ],
+        "description": "Totally Accurate Battle Simulator is a wacky physics-based tactics game. Experience accurate warfare through the ages. TABS uses state of the art physics-based simulation to provide you with never-before-seen insight to our greatest battles of history.",
+        "developer": "Developer: Landfall",
+        "Platforms": "Platforms: PC, PlayStation 4, Xbox One"
+    },
+    {
+        "name": "PowerWash Simulator",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "38 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "48 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "56 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "47 Hours"
+            }
+        ],
+        "description": "Release the Pressure with PowerWash Simulator! Wash away your worries with the soothing sounds of high-pressure water. Fire up your power washer and blast away every speck of dirt and grime you can find, all with the simple satisfaction of power-washing to a sparkling finish.",
+        "developer": "Developer: FuturLab",
+        "Platforms": ""
+    },
+    {
+        "name": "Lake",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "38 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "48 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "56 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "47 Hours"
+            }
+        ],
+        "description": "Release the Pressure with PowerWash Simulator! Wash away your worries with the soothing sounds of high-pressure water. Fire up your power washer and blast away every speck of dirt and grime you can find, all with the simple satisfaction of power-washing to a sparkling finish.",
+        "developer": "Developer: FuturLab",
+        "Platforms": ""
+    },
+    {
+        "name": "Kena: Bridge of Spirits",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "10 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "14½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "20½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "13½ Hours"
+            }
+        ],
+        "description": "A story-driven, action adventure combining exploration with fast-paced combat. As Kena, players find and grow a team of charming spirit companions called the Rot, enhancing their abilities and creating new ways to manipulate the environment.",
+        "developer": "Developer: Ember Lab",
+        "Platforms": "Platforms: PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S"
+    },
+    {
+        "name": "Creatures of Ava",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "20 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "25 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "32 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "26½ Hours"
+            }
+        ],
+        "description": "Save the kingdom of Hyrule – this time with the wisdom of Princess Zelda – in The Legend of Zelda: Echoes of Wisdom for Nintendo Switch.\n\nThe people of Hyrule are being stolen away by strange rifts that have appeared, and with a certain swordsman among those missing, it’s up to Princess Zelda to save her kingdom.",
+        "developer": "",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Pokémon X and Y",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "31 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "70½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "202 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "55 Hours"
+            }
+        ],
+        "description": "The Next Evolution in Pokémon comes to Nintendo 3DS.",
+        "developer": "Developer: Game Freak",
+        "Platforms": "Platform: Nintendo 3DS"
+    },
+    {
+        "name": "Pokémon Sun and Moon",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "33½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "59 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "139 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "50½ Hours"
+            }
+        ],
+        "description": "Explore the Hawaii-inspired land of Alola and encounter dozens of new Pokémon.",
+        "developer": "Developer: Game Freak",
+        "Platforms": "Platform: Nintendo 3DS"
+    },
+    {
+        "name": "Eastward",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "20 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "25 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "30½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "23 Hours"
+            }
+        ],
+        "description": "In a beautifully-detailed and charming post-apocalyptic world, a miner discovers a mysterious little girl named Sam deep underground in a secret facility... Journey through decaying cities, encountering strange creatures and even stranger people along the way!",
+        "developer": "Developer: Pixpil",
+        "Platforms": "Platforms: Nintendo Switch, PC, Xbox One, Xbox Series X/S"
+    },
+    {
+        "name": "Chronos: Before the Ashes",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "8 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "9½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "14½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "9½ Hours"
+            }
+        ],
+        "description": "Chronos: Before the Ashes is an atmospheric RPG that chronicles a hero’s lifelong quest to save their homeland from a great evil.",
+        "developer": "Developers: Gunfire Games, THQ Nordic",
+        "Platforms": "Platforms: Google Stadia, Nintendo Switch, PC, PlayStation 4, Xbox One"
+    },
+    {
+        "name": "Nobody Wants to Die",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "5½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "6 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "7½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "6 Hours"
+            }
+        ],
+        "description": "Lose yourself in the dystopian world of New York, 2329; immortality comes at a price that someone has to pay. In this interactive noir story, lead the investigation using advanced technology, as Detective James Karra who risks it all in pursuit of a serial killer targeting the city’s elite.",
+        "developer": "Developer: Critical Hit Games",
+        "Platforms": "Platforms: PC, PlayStation 5, Xbox Series X/S"
+    },
+    {
+        "name": "Xenoblade Chronicles™ 2",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "63 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "106 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "256 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "96½ Hours"
+            }
+        ],
+        "description": "Xenoblade Chronicles 2 is a Third-Person, Action, Role-Playing game, developed by Monolith Soft and published by Nintendo, which was released in 2017.",
+        "developer": "Developer: Monolith Soft",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Xenoblade Chronicles™ Definitive Edition",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "69 Hours"
+            },
+            {
+                "title": "Main + Extras",
+                "time": "92½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "155 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "90 Hours"
+            },
+            {
+                "title": "Main Story",
+                "time": "52 Hours"
+            },
+            {
+                "title": "Main + Extras",
+                "time": "79½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "137 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "75 Hours"
+            },
+            {
+                "title": "Main Story",
+                "time": "70½ Hours"
+            },
+            {
+                "title": "Main + Extras",
+                "time": "103 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "158 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "97½ Hours"
+            }
+        ],
+        "description": "Join the battle for Bionis to repel the invasion of a terrifying mechanical army and uncover the secrets of a mystical sword called the Monado in Xenoblade. Xenoblade Chronicles is an epic role-playing game which takes place on an immense game world on the remains of two giant titans, and features fast-paced real-time battling. The game heavily focuses on exploring vast landscapes and immerses you into the game with cinematic cutscenes. The story focuses on Shulk and the Monado, a mystical sword that gives his bearer great powers, and a war between humans and robots. The game's real-time battles have an action oriented approach, giving you the chance to unleash special attacks and strategies by selecting them from a command gauge; the battling also is interlinked with the affinity between characters. ",
+        "developer": "Developers: Monolith Soft, Monster Games",
+        "Platforms": "Platforms: Nintendo 3DS, Nintendo Switch, Wii"
+    },
+    {
+        "name": "Tony Hawk's™ Pro Skater™ 1 + 2",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "7 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "12 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "34 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "12 Hours"
+            }
+        ],
+        "description": "Drop back in with the most iconic skateboarding games ever made. Play Tony Hawk’s Pro Skater & Tony Hawk’s Pro Skater 2 in one epic collection, rebuilt from the ground up in incredible HD. All the pro skaters, levels and tricks are back and fully-remastered, plus more.",
+        "developer": "Developer: Vicarious Visions",
+        "Platforms": ""
+    },
+    {
+        "name": "The Legend of Zelda™: Skyward Sword HD",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "30½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "38½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "42 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "36½ Hours"
+            }
+        ],
+        "description": "Take to the skies, draw your sword, and experience the earliest story in the Legend of Zelda series. Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny. Soar between floating islands and descend to the treacherous surface world in this updated HD version of The Legend of Zelda: Skyward Sword.",
+        "developer": "Developers: Tantalus, Nintendo EPD",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Super Mario RPG™",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "12 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "14 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "20 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "13½ Hours"
+            }
+        ],
+        "description": "Mario, Bowser, and Peach partner up to repair the wish-granting Star Road in this approachable role-playing adventure.",
+        "developer": "Developer: ArtePiazza",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Super Mario Bros.™ Wonder",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "10 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "13½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "19½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "15 Hours"
+            }
+        ],
+        "description": "Mario and friends have been invited to visit the colorful Flower Kingdom, just a short hop away from the Mushroom Kingdom. Unfortunately, King Bowser has transformed into a flying castle and is causing chaos across their peaceful land. Now our heroes must save the day and the Flower Kingdom in this wondrous new adventure!",
+        "developer": "Developer: Nintendo EPD",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "SONIC SUPERSTARS",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "5 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "8½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "17½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "7 Hours"
+            }
+        ],
+        "description": "Adventure through the mystical Northstar Islands in this all-new take on classic 2D Sonic high-speed action platforming.",
+        "developer": "Developers: Arzest, Sonic Team",
+        "Platforms": ""
+    },
+    {
+        "name": "Sonic Colors: Ultimate™",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "5 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "10 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "19½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "7 Hours"
+            }
+        ],
+        "description": "The evil Dr. Eggman has built a gigantic interstellar amusement park bursting with incredible rides and colorful attractions – but he’s powering it with a captured alien race called “Wisps.” Use Sonic’s lightning speed to free the Wisps and learn the secrets of their amazing powers as you explore six unique colorful worlds, each filled with dangerous enemies and hurdles to overcome. ",
+        "developer": "Developers: Blind Squirrel Games, Ridiculous Games",
+        "Platforms": ""
+    },
+    {
+        "name": "Red Dead Redemption",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "18 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "26 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "46 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "24 Hours"
+            }
+        ],
+        "description": "Red Dead Redemption is a Western epic, set at the turn of the 20th century when the lawless and chaotic badlands began to give way to the expanding reach of government and the spread of the Industrial Age. The story of former outlaw, John Marston, Red Dead Redemption takes players on a great adventure across the American frontier.",
+        "developer": "Developers: Rockstar San Diego, Rockstar North",
+        "Platforms": "Platforms: Nintendo Switch, PlayStation 3, PlayStation 4, Xbox 360"
+    },
+    {
+        "name": "Pokémon Scarlet and Violet",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "32 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "49 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "86 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "49 Hours"
+            }
+        ],
+        "description": "The Pokémon Scarlet and Pokémon Violet games, the newest chapters in the Pokémon series, are coming to Nintendo Switch. With these new titles, the Pokémon series takes a new evolutionary step, allowing you to explore freely in a richly expressed open world.",
+        "developer": "Developer: Game Freak",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Pokémon™ Legends: Arceus",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "25½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "44½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "79 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "42½ Hours"
+            }
+        ],
+        "description": "Survey, catch, and research wild Pokémon in a long-gone era of Sinnoh to complete the region’s first Pokédex.",
+        "developer": "Developer: Game Freak",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Pokémon Brilliant Diamond and Shining Pearl",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "26 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "43 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "111 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "34 Hours"
+            }
+        ],
+        "description": "Experience the nostalgia of the Pokémon Diamond and Pokémon Pearl's games in an adventure reborn on Nintendo Switch's systems. The original story has been faithfully reproduced, and these remakes include easy-to-understand, player-friendly conveniences of the modern Pokémon series, plus up-close-and-personal Pokémon battle scenes.",
+        "developer": "Developer: ILCA",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Pokémon Sword and Shield",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "25½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "44½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "108 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "41 Hours"
+            }
+        ],
+        "description": "Become a Pokemon Trainer and embark on a new journey in the new Galar region! Choose from one of three new partner Pokemon: Grookey, Scorbunny, or Sobble. In this all new adventure, you'll encounter new and familiar Pokemon as you catch, battle, and trade Pokemon while exploring new areas and uncovering an all-new story. Get ready for the next Pokemon adventure in the Pokemon Sword and Pokemon Shield games. ",
+        "developer": "Developer: Game Freak",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Pokémon: Let's Go, Pikachu! & Pokémon: Let's Go, Eevee!",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "25½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "44½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "108 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "41 Hours"
+            }
+        ],
+        "description": "Become a Pokemon Trainer and embark on a new journey in the new Galar region! Choose from one of three new partner Pokemon: Grookey, Scorbunny, or Sobble. In this all new adventure, you'll encounter new and familiar Pokemon as you catch, battle, and trade Pokemon while exploring new areas and uncovering an all-new story. Get ready for the next Pokemon adventure in the Pokemon Sword and Pokemon Shield games. ",
+        "developer": "Developer: Game Freak",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Pikmin™ 4",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "17½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "28½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "39½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "32 Hours"
+            }
+        ],
+        "description": "Chart a mysterious planet with curious plantlike Pikmin that come in different types in Pikmin 4 - like the brand-new Ice Pikmin! The capable canine, Oatchi, will also help to overcome big challenges.",
+        "developer": "Developer: Nintendo",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Persona 5 Tactica",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "24½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "30 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "38½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "30½ Hours"
+            }
+        ],
+        "description": "Join the Phantom Thieves as they lead an uprising of the heart! Assemble an all-star team of heroes in a brand-new story in this thrilling combat adventure set in Persona’s iconic universe.",
+        "developer": "Developer: P-Studio",
+        "Platforms": ""
+    },
+    {
+        "name": "Persona 5 Royal",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "101 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "123 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "142 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "123 Hours"
+            }
+        ],
+        "description": "Persona 5 Royal is a remake of the original Persona 5 with the addition of many new elements, including a new third semester, new events involving daily school life and the Phantom Thieves, new characters, locations, and more.",
+        "developer": "Developer: P-Studio",
+        "Platforms": ""
+    },
+    {
+        "name": "Persona 4 Golden",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "67½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "84 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "134 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "82 Hours"
+            }
+        ],
+        "description": "Inaba a quiet town in rural Japan. A normal teenager arrives at the station to begin his year-long stay in the countryside, only to be welcomed by the news of a dead TV announcer. Shortly after, another body appears, mysteriously hung from the top of a telephone pole. The cause of death is unknown, with no leads on the suspect... As the peaceful community is thrown into turmoil, the urban youth and his classmates wander into a strange, surreal place covered by a thick fog... ",
+        "developer": "Developer: Atlus",
+        "Platforms": ""
+    },
+    {
+        "name": "Persona 3 Portable",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "64½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "81 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "123 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "75½ Hours"
+            }
+        ],
+        "description": "The Dark Hour Begins Anew! Terrible creatures lurk in the dark, preying on those who wander into the hidden hour between one day and the next. As a member of a secret school club, you must wield your inner power--Persona--and protect humanity from impending doom. Will you live to see the light of day?",
+        "developer": "Developer: Atlus",
+        "Platforms": ""
+    },
+    {
+        "name": "Paper Mario™: The Thousand-Year Door",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "30½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "38½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "55 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "36½ Hours"
+            }
+        ],
+        "description": "Paper Mario: Thousand Year Door is a full-blown role-playing game starring a classic 2D character! Time passes and pages turn, leading Mario to turn back to his paper form as he faces a new threat. Crawl through classic-style dungeons as you explore a number of levels, all taking you to different worlds and time periods. Every new chapter is a new adventure as you help Mario collect the Seven Star Stone jewels he needs! ",
+        "developer": "Developer: Intelligent Systems",
+        "Platforms": "Platforms: Nintendo GameCube, Nintendo Switch"
+    },
+    {
+        "name": "Need for Speed™ Hot Pursuit Remastered",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "16½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "23½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "35½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "22½ Hours"
+            }
+        ],
+        "description": "Feel the thrill of the chase and the rush of escape behind the wheels of the world’s hottest high-performance cars in Need for Speed: Hot Pursuit - Remastered – a heart-pumping, socially competitive racing experience.",
+        "developer": "Developer: Stellar Entertainment Limited",
+        "Platforms": "Platforms: Nintendo Switch, PC, PlayStation 4, Xbox One"
+    },
+    {
+        "name": "New Tales from the Borderlands",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "9½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "11 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "13 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "10 Hours"
+            }
+        ],
+        "description": "Decide the fates of altruistic scientist Anu, her ambitious, \"streetwise\" brother Octavio, and the fierce, frogurt-slinging Fran. Claw and con your way through five thrilling chapters!",
+        "developer": "Developer: Gearbox Software",
+        "Platforms": ""
+    },
+    {
+        "name": "New Pokémon Snap™",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "10½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "19 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "69½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "15½ Hours"
+            }
+        ],
+        "description": "Seek out and take in-game photographs of Pokémon in their native environments in New Pokémon Snap! You'll even discover behaviors and expressions you've never seen before when you encounter and research lively wild Pokémon. You might see them patrolling their territory, playing, or lurking in out-of-the-way spots. Travel to the islands that make up the Lental region. In this region, some of the Pokémon and vegetation will appear to have a special glow. Research these Pokémon alongside Professor Mirror as you explore dense jungles, vast deserts, and more! Your observations of Pokémon thriving in the wild may help unravel the truth behind the Illumina phenomenon. The Pokémon pictures you take will be used to build your very own Pokémon Photodex! ",
+        "developer": "Developer: Bandai Namco Studios",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Monster Hunter Rise",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "22½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "79 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "173 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "57 Hours"
+            }
+        ],
+        "description": "Set in the ninja-inspired land of Kamura Village, explore lush ecosystems and battle fearsome monsters to become the ultimate hunter. It’s been half a century since the last calamity struck, but a terrifying new monster has reared its head and threatens to plunge the land into chaos once again.\r\nHunt solo or in a party with friends to earn rewards that you can use to craft a huge variety of weapons and armor. Brand new gameplay systems such as the high-flying ‘Wire Action’ and your canine companion ‘Palamute’ will add exciting new layers to the already robust combat that Monster Hunter is known for. ",
+        "developer": "Developer: Capcom",
+        "Platforms": ""
+    },
+    {
+        "name": "Monster Hunter Generations Ultimate",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "78 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "175 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "897 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "173 Hours"
+            }
+        ],
+        "description": "Monster Hunter Generations Ultimate is a Action, Role-Playing game, developed by Capcom and published by Capcom, which was released in 2017.",
+        "developer": "Developer: Capcom",
+        "Platforms": "Platforms: Nintendo 3DS, Nintendo Switch"
+    },
+    {
+        "name": "Metroid Prime™ Remastered",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "13½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "16 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "17½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "15½ Hours"
+            }
+        ],
+        "description": "Samus returns in a new mission to unravel the mystery behind the ruined walls scattered across Tallon IV. In Metroid Prime, you'll play the role of this bounty hunter and view the world through her visor, which displays information ranging from current energy levels to ammunition. Equipped with a Power Beam and Gravity Suit, you must shoot locked switches, solve puzzles, and eliminate enemies. It's up to you to explore the world and recover more power-ups and weapons, which gradually open more gameplay areas. ",
+        "developer": "Developers: Retro Studios, Nintendo",
+        "Platforms": "Platforms: Nintendo GameCube, Nintendo Switch, Wii"
+    },
+    {
+        "name": "Mario vs. Donkey Kong™",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "5½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "8½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "15 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "7½ Hours"
+            }
+        ],
+        "description": "Run, jump, and backflip your way to rescuing the stolen Mini-Mario toys in this puzzling twist on Mario action. Obstacles like spikes, moving platforms, and falling bricks stand in your way. Put your brain to work and figure out the best way to reach the Mini-Marios. The rivalry that originally heated up on the Game Boy Advance system reignites on the Nintendo Switch system with newly-added co-op play and updated visuals. ",
+        "developer": "Developer: Nintendo",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Mario Party™ Superstars",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "9 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "21½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "67½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "15 Hours"
+            }
+        ],
+        "description": "A Superstar collection of classic Nintendo 64 boards Calling all superstars! The Mario Party series is back with 5 classic boards from the Nintendo 64 Mario Party games. Race to get the most stars (and sabotage your opponents) on boards like the stellar Space Land or the spooky Horror Land! Party at your own pace by suspending a game and picking up right where you left off! The tides can turn quickly in Mario Party, so stay vigilant, partygoers. All modes can be played online*, too! ",
+        "developer": "Developer: NDcube",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Mario Kart™ 8 Deluxe",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "6 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "22 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "53 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "22 Hours"
+            }
+        ],
+        "description": "Hit the road with the definitive version of Mario Kart 8 and play anytime, anywhere! Race your friends or battle them in a revised battle mode on new and returning battle courses. Play locally in up to 4-player multiplayer in 1080p while playing in TV Mode. Every track from the Wii U version, including DLC, makes a glorious return. Plus, the Inklings appear as all-new guest characters, along with returning favorites, such as King Boo, Dry Bones, and Bowser Jr.! ",
+        "developer": "Developer: Nintendo",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Mario Golf™: Super Rush",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "8 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "12½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "53 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "10½ Hours"
+            }
+        ],
+        "description": "Tee off with family and friends in the biggest Mario Golf game yet.",
+        "developer": "Developer: Camelot Software Planning",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Knights & Guns",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "5 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "--"
+            },
+            {
+                "title": "Completionist",
+                "time": "--"
+            },
+            {
+                "title": "All Styles",
+                "time": "5 Hours"
+            }
+        ],
+        "description": "A classic revenge story set in a medieval fantasy world... with a touch of deadly modern firepower just to turn things up to eleven. Fight through the armies of undead, mutants, aliens, machines and beasts in order to get back what is rightfully yours and bring some semblance of peace back to the land. Who knows - if you're thorough enough you might even discover the history of the kingdom itself, long lost to the scholars of the realm. Knights & Guns brings you to a dangerous world where you will fight, alongside your friend, against demons, ghouls & ghosts. Use shotguns, lasers and the power of chivalry to overcome every obstacle. Become the best version of a knight - one with a gun. ",
+        "developer": "Developer: Baltoro Games",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Kirby™ and the Forgotten Land",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "10½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "15½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "26 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "16 Hours"
+            }
+        ],
+        "description": "Float off on an all-new adventure as the powerful puffball, Kirby. Explore in 3D stages as you discover a mysterious world with abandoned structures from a past civilization—like a shopping mall?! Copy enemies’ abilities like the new Drill and Ranger and use them to attack, explore your surroundings, and save the kidnapped Waddle Dees from the ferocious Beast Pack alongside the mysterious Elfilin. Hope you’re hungry for an unforgettable adventure! ",
+        "developer": "Developer: HAL Laboratory",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "King's Bounty II",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "27½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "37 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "53½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "43½ Hours"
+            }
+        ],
+        "description": "The King's Bounty turn-based tactics series returns with King’s Bounty 2! In addition to the tactical depth fans expect from its combat, immerse yourself in the fantasy world of Antara with a whole new, non-linear narrative and deep RPG mechanics that give weight to your every decision.",
+        "developer": "Developer: 1C Entertainment",
+        "Platforms": ""
+    },
+    {
+        "name": "Action!",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "2½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "--"
+            },
+            {
+                "title": "Completionist",
+                "time": "--"
+            },
+            {
+                "title": "All Styles",
+                "time": "2½ Hours"
+            }
+        ],
+        "description": "Engage in insane aerial martial arts combat against countless opponents!",
+        "developer": "Developer: Culture Attack Studio",
+        "Platforms": "Platform: PC"
+    },
+    {
+        "name": "Hyrule Warriors: Definitive Edition",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "17 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "35 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "361 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "36 Hours"
+            }
+        ],
+        "description": "A new, ultimate version of the exhilarating action game set in the Zelda universe will include every map and mission, plus all 29 playable characters from both the Wii U and Nintendo 3DS versions of the game, along with all of the previous paid downloadable content. Play as Link, Zelda, Midna, Skull Kid and dozens more in action-packed battles at home or on the go. Additionally, the game includes new outfits for Link and Zelda based on the Legend of Zelda: Breath of the Wild game. ",
+        "developer": "Developers: Omega Force, Team Ninja",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Hyrule Warriors: Age of Calamity",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "25 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "39 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "76 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "42 Hours"
+            }
+        ],
+        "description": "See Hyrule 100 years before The Legend of Zelda: Breath of the Wild and experience the events of the Great Calamity. Join the struggle that brought Hyrule to its knees. Learn more about Zelda, the four Champions, the King of Hyrule and more through dramatic cutscenes as they try to save the kingdom from Calamity. Hyrule Warriors: Age of Calamity is the only way to firsthand see what happened 100 years ago. ",
+        "developer": "Developer: Omega Force",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "FAR: Changing Tides",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "5½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "6 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "8½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "6 Hours"
+            }
+        ],
+        "description": "FAR: Changing Tides is an atmospheric vehicle adventure driven by an emotional story. When floods ravage your world, captain a ship like no other and search for a new home. Sail stormy waters, dive unknown depths, and explore forgotten ruins on your voyage.",
+        "developer": "Developer: Okomotive",
+        "Platforms": ""
+    },
+    {
+        "name": "DRAGON QUEST TREASURES",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "21 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "28 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "41 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "25 Hours"
+            }
+        ],
+        "description": "A charming, casual spin on the classic RPG series.",
+        "developer": "Developer: Tose",
+        "Platforms": "Platforms: Nintendo Switch, PC"
+    },
+    {
+        "name": "Cruis'n Blast",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "2 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "5½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "15 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "3½ Hours"
+            }
+        ],
+        "description": "Cruis'n Blast, developed by the crack Raw Thrills studio team, takes Cruis'n into the new millennium as players zoom 200 mph through the bustle of London, blast through the exotic wonders of Madagascar, celebrate Carnival in Rio, amaze to the hi tech splendor of Singapore, and drive an earth-shaking thriller through Death Valley.",
+        "developer": "Developer: Raw Thrills",
+        "Platforms": "Platforms: Arcade, Nintendo Switch"
+    },
+    {
+        "name": "Chocobo GP",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "3 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "6½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "16½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "4½ Hours"
+            }
+        ],
+        "description": "Start your engines and get ready for Chocobo's newest racing adventure, full of magic and mayhem.",
+        "developer": "Developer: Square Enix",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "ASTRAL CHAIN",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "20½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "28 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "81 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "26 Hours"
+            }
+        ],
+        "description": "The Ark: A massive, prosperous, multicultural city. But disaster strikes when mysterious dimensional gates appear, bringing dangerous alien creatures to the Ark to attack the people and corrupt the land. The Ark police form a special task force, known as Neuron, to face the alien threat head-on. Humanity’s last chance against invasion is a special living weapon called the Legion. As a rookie Neuron officer, you and your Legion will work together to solve cases and save humankind. ",
+        "developer": "Developer: PlatinumGames",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Animal Crossing™: New Horizons",
+        "details": [
+            {
+                "title": "Single-Player",
+                "time": "61 Hours - 380 Hours"
+            },
+            {
+                "title": "Co-Op",
+                "time": "20 Hours"
+            }
+        ],
+        "description": "Nook Inc. invites you to create your personal island paradise on a deserted island brimming with possibility.",
+        "developer": "Developer: Nintendo",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "13 Sentinels: Aegis Rim",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "30½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "36 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "38 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "35½ Hours"
+            }
+        ],
+        "description": "Vanillaware, the storytellers behind Odin Sphere and Dragon’s Crown, craft a sci-fi mystery epic spanning thirteen intertwining stories. Uncover the truth and delve into a 2D sidescrolling adventure featuring gorgeous art and environments. Then, battle the kaiju in fast-paced, top-down combat. Customize the Sentinels with an arsenal of mech suit weaponry, and fight to defend humanity! ",
+        "developer": "Developer: Vanillaware",
+        "Platforms": "Platforms: Nintendo Switch, PlayStation 4"
+    },
+    {
+        "name": "There Is No Game: Wrong Dimension",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "5 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "5½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "6 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "5½ Hours"
+            }
+        ],
+        "description": "There is no game. So don't go messing things up by clicking everywhere. You don’t want to be kicked out of your video game world, do you? Of course not!",
+        "developer": "Developer: Draw Me A Pixel",
+        "Platforms": "Platforms: Mobile, Nintendo Switch, PC"
+    },
+    {
+        "name": "GRIS",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "3½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "4 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "6½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "4 Hours"
+            }
+        ],
+        "description": "GRIS is a hopeful young girl lost in her own world, dealing with a painful experience in her life. Her journey through sorrow is manifested in her dress, which grants new abilities to better navigate her faded reality.",
+        "developer": "Developer: Nomada Studio",
+        "Platforms": ""
+    },
+    {
+        "name": "Papers, Please",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "5 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "8 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "16 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "7 Hours"
+            }
+        ],
+        "description": "The communist state of Arstotzka has just ended a 6-year war with neighboring Kolechia and reclaimed its rightful half of the border town, Grestin. Your job as immigration inspector is to control the flow of people entering the Arstotzkan side of Grestin from Kolechia. Among the throngs of immigrants and visitors looking for work are hidden smugglers, spies, and terrorists. Using only the documents provided by travelers and the Ministry of Admission's primitive inspect, search, and fingerprint systems you must decide who can enter Arstotzka and who will be turned away or arrested. ",
+        "developer": "Developer: Lucas Pope",
+        "Platforms": "Platforms: Mobile, PC, PlayStation 4, PlayStation Vita"
+    },
+    {
+        "name": "Donut County",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "2 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "2 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "2½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "2 Hours"
+            }
+        ],
+        "description": "Donut County is a story-based physics puzzle game where you play as an ever-growing hole in the ground. Meet cute characters, steal their trash, and throw them in a hole.",
+        "developer": "Developer: Ben Esposito",
+        "Platforms": "Platforms: Mobile, Nintendo Switch, PC, PlayStation 4, Xbox One"
+    },
+    {
+        "name": "The Legend of Zelda™: Tears of the Kingdom",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "59 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "116 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "243 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "112 Hours"
+            }
+        ],
+        "description": "An epic adventure across the land and skies of Hyrule awaits in The Legend of Zelda: Tears of the Kingdom for Nintendo Switch. The adventure is yours to create in a world fueled by your imagination. In this sequel to The Legend of Zelda: Breath of the Wild, you’ll decide your own path through the sprawling landscapes of Hyrule and the mysterious islands floating in the vast skies above. Can you harness the power of Link’s new abilities to fight back against the malevolent forces that threaten the kingdom? ",
+        "developer": "Developer: Nintendo EPD",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "The Legend of Zelda: Link's Awakening",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "14 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "16½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "20½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "16 Hours"
+            }
+        ],
+        "description": "26 years after its original release on Game Boy, The Legend of Zelda: Link's Awakening will be reborn as a new experience on Nintendo Switch. Buffeted by a storm, Link washes ashore on the mysterious Koholint Island. In order to return home, Link must overcome challenging dungeons and battle against fearsome monsters. This new version of the classic adventure includes many unique elements that appeared in the original Game Boy release, such as 2D platformer-style rooms and appearances from characters outside of The Legend of Zelda series. ",
+        "developer": "Developer: Grezzo",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "The Legend of Zelda™: Breath of the Wild",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "50½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "98½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "193 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "92½ Hours"
+            }
+        ],
+        "description": "Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across fields, through forests and to mountain peaks as you discover what has become of the ruined kingdom of Hyrule in this stunning open-air adventure. ",
+        "developer": "Developer: Nintendo EPD",
+        "Platforms": "Platforms: Nintendo Switch, Wii U"
+    },
+    {
+        "name": "V Rising",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "42½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "61 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "87 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "60½ Hours"
+            }
+        ],
+        "description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
+        "developer": "Developer: Stunlock Studios",
+        "Platforms": "Platforms: PC, PlayStation 5"
+    },
+    {
+        "name": "The Stanley Parable: Ultra Deluxe",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "2 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "5½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "11 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "6 Hours"
+            }
+        ],
+        "description": "The Stanley Parable: Ultra Deluxe is an expanded re-imagining of 2013's The Stanley Parable. You will play as Stanley, and you will not play as Stanley. You will make a choice, and you will become powerless. You are not here to win. The Stanley Parable is a game that plays you.",
+        "developer": "Developers: Crows Crows Crows, Galactic Cafe",
+        "Platforms": ""
+    },
+    {
+        "name": "Pikuniku",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "3 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "4 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "6 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "3½ Hours"
+            }
+        ],
+        "description": "Pikuniku is an absurdly wonderful puzzle-exploration game that takes place in a strange but playful world where not everything is as happy as it seems. Help peculiar characters overcome struggles, uncover a deep state conspiracy, and start a fun little revolution in this delightful dystopian adventure!",
+        "developer": "Developers: Arnaud De Bock, Rémi Forcadell, Alan Zucconi, Calum Bowen",
+        "Platforms": "Platforms: Google Stadia, Nintendo Switch, PC, Xbox One"
+    },
+    {
+        "name": "Death's Door",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "9 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "12 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "15½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "12 Hours"
+            }
+        ],
+        "description": "Reaping souls of the dead and punching a clock might get monotonous but it's honest work for a Crow. The job gets lively when your assigned soul is stolen and you must track down a desperate thief to a realm untouched by death - where creatures grow far past their expiry.",
+        "developer": "Developer: Acid Nerve",
+        "Platforms": ""
+    },
+    {
+        "name": "Burnout™ Paradise Remastered",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "11 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "19 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "36 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "15½ Hours"
+            }
+        ],
+        "description": "Burnout Paradise The Ultimate Box brings together the best console racing game of 2008, Burnout Paradise, with a host of great new content including motorbikes and exciting new online modes and challenges.",
+        "developer": "Developers: Criterion Games, Stellar Entertainment",
+        "Platforms": "Platforms: Nintendo Switch, PC, PlayStation 4, Xbox One"
+    },
+    {
+        "name": "Anger Foot",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "11 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "19 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "36 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "15½ Hours"
+            }
+        ],
+        "description": "Burnout Paradise The Ultimate Box brings together the best console racing game of 2008, Burnout Paradise, with a host of great new content including motorbikes and exciting new online modes and challenges.",
+        "developer": "Developers: Criterion Games, Stellar Entertainment",
+        "Platforms": "Platforms: Nintendo Switch, PC, PlayStation 4, Xbox One"
+    },
+    {
+        "name": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "12 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "12½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "20 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "14 Hours"
+            }
+        ],
+        "description": "Five Nights at Freddy’s VR: Help Wanted is a virtual reality experience for the HTC Vive and Oculus Rift. FNaF VR: HW is a collection of classic and original mini-games set in the Five Nights universe.",
+        "developer": "Developer: Steel Wool Games",
+        "Platforms": "Platforms: Mobile, Nintendo Switch, Meta Quest, PC, PlayStation 4, Xbox One"
+    },
+    {
+        "name": "Pokémon Omega Ruby and Alpha Sapphire",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "25½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "53 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "172 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "47½ Hours"
+            }
+        ],
+        "description": "Pokémon fans will collect battle and trade Pokémon through a dramatic story within a spectacular new world.",
+        "developer": "Developer: Game Freak",
+        "Platforms": "Platform: Nintendo 3DS"
+    },
+    {
+        "name": "Pokémon Ultra Sun and Ultra Moon",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "33 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "56½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "132 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "49½ Hours"
+            }
+        ],
+        "description": "A new light shines on the Alola region! Take on the role of a Pokémon™ Trainer and unravel the mystery of the Legendary Pokémon Necrozma's new forms: Dusk Mane Necrozma in the Pokémon Ultra Sun game and Dawn Wings Necrozma in the Pokémon Ultra Moon game. You can encounter and battle 400+ Pokémon, including new forms. A brand-new showdown awaits!",
+        "developer": "Developer: Game Freak",
+        "Platforms": "Platform: Nintendo 3DS"
+    },
+    {
+        "name": "Eastward - Octopia",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "20 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "20½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "22½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "20½ Hours"
+            }
+        ],
+        "description": "Welcome to a parallel world of Eastward: population... growing!? In a remote mountainside village, Sam and John start life anew as farmers! Work the land, tend livestock, and cook heartwarming meals for familiar -yet strangely different- friends. Enjoy the good life in peaceful pixel surroundings!",
+        "developer": "Developer: Pixpil",
+        "Platforms": "Platforms: Mac, Nintendo Switch, PC, Xbox One, Xbox Series X/S"
+    },
+    {
+        "name": "ARK: Survival Evolved",
+        "details": [
+            {
+                "title": "Single-Player",
+                "time": "68 Hours - 552 Hours"
+            },
+            {
+                "title": "Co-Op",
+                "time": "277 Hours"
+            },
+            {
+                "title": "Vs.",
+                "time": "293 Hours"
+            }
+        ],
+        "description": "As a man or woman stranded naked, freezing and starving on the shores of a mysterious island called ARK, you must hunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the elements. Use your cunning and resources to kill or tame the leviathan dinosaurs and other primeval creatures roaming the land, and team up with or prey on hundreds of other players to survive, dominate... and escape! ",
+        "developer": "",
+        "Platforms": ""
+    },
+    {
+        "name": "Remnant: From the Ashes",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "13 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "20½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "59 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "19 Hours"
+            }
+        ],
+        "description": "The world has been thrown into chaos by an ancient evil from another dimension. As one of the last remnants of humanity, you must set out alone or alongside up to two other survivors to face down hordes of deadly enemies to try to carve a foothold, rebuild, and retake what was lost.",
+        "developer": "Developer: Gunfire Games",
+        "Platforms": "Platforms: Nintendo Switch, PC, PlayStation 4, Xbox One"
+    },
+    {
+        "name": "Spyro™ Reignited Trilogy",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "17 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "26½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "33½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "30 Hours"
+            }
+        ],
+        "description": "The original roast master is back! Same sick burns, same smoldering attitude, now all scaled up in stunning HD. Spyro is bringing the heat like never before in the Spyro Reignited Trilogy game collection. Rekindle the fire with the original three games, Spyro the Dragon, Spyro 2: Ripto's Rage! and Spyro: Year of the Dragon. Explore the expansive realms, re-encounter the fiery personalities and relive the adventure in fully remastered glory. Because when there’s a realm that needs saving, there’s only one dragon to call. ",
+        "developer": "Developer: Toys for Bob",
+        "Platforms": "Platforms: Nintendo Switch, PC, PlayStation 4, Xbox One"
+    },
+    {
+        "name": "Xenoblade Chronicles™ 3",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "62½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "102 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "173 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "100 Hours"
+            }
+        ],
+        "description": "A brand-new story that ties together the futures of the worlds depicted in Xenoblade Chronicles and Xenoblade Chronicles 2.",
+        "developer": "Developer: Monolith Soft",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "World's End Club",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "11 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "14 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "15½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "14 Hours"
+            }
+        ],
+        "description": "Twelve 12-year old kids go on a 1,200 km journey. A new type of action-adventure game that fuses a thrilling story with 2D side-scrolling action.",
+        "developer": "Developers: Too Kyo Games, Grounding",
+        "Platforms": "Platforms: Mobile, Nintendo Switch, PC"
+    },
+    {
+        "name": "Prince of Persia The Lost Crown",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "16½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "23½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "30½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "24 Hours"
+            }
+        ],
+        "description": "Dash into a stylish and thrilling action-adventure platformer game set in a mythological Persian world where the boundaries of time and space are yours to manipulate.",
+        "developer": "Developer: Ubisoft Montpellier",
+        "Platforms": ""
+    },
+    {
+        "name": "Luigi’s Mansion™ 3",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "8 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "16½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "35½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "13 Hours"
+            }
+        ],
+        "description": "Play as an adorable stuffed Yoshi as he travels through a world crafted from household items.",
+        "developer": "Developer: Good-Feel",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Super Mario™ 3D World + Bowser’s Fury",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "10 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "16½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "28 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "16½ Hours"
+            }
+        ],
+        "description": "Team up for a paws-itively adorable adventure! Bowser is up to his old tricks again and only Mario and his friends can save the day! Use power-ups like the Super Bell, which grants catlike abilities like climbing and scratching, to overcome Bowser and his minions. This Nintendo Switch version also includes Bowser's Fury! Mario is sent to Lake Lapcat, where everything is cat-themed—and Bowser has gone berserk! Team up with Bowser Jr. to help his dad chill out in this short but action-packed standalone adventure. ",
+        "developer": "Developer: Nintendo EPD",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Luigi's Mansion™ 3",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "13 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "17 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "22 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "15½ Hours"
+            }
+        ],
+        "description": "Luigi’s dream vacation turns into a ghostly—and gooey— nightmare!",
+        "developer": "Developer: Next Level Games",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Kirby’s Return to Dream Land™ Deluxe",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "7 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "11 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "25 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "11 Hours"
+            }
+        ],
+        "description": "Kirby's adventures continue in Dream Land! The tough puff Kirby is back for a 4-player platforming adventure. Copy enemies' abilities and use their power to attack with a sword, wield a whip, and float with a parasol. You can also laser blast with the new Mecha Copy Ability that makes a series debut! The extra muscle will be handy in finding missing pieces for Magolor's ship, which crash landed on Planet Popstar. Float and fight along with friends on the same system, where each player can control another Kirby or one of Kirby's iconic friends like King Dedede, Meta Knight, and Bandana Waddle Dee. ",
+        "developer": "Developer: HAL Labs",
+        "Platforms": "Platform: Nintendo Switch"
+    },
+    {
+        "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "7½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "10 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "17½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "11 Hours"
+            }
+        ],
+        "description": "The Hinokami Chronicles is a spectacular arena fighter from the team at CyberConnect2 that lets players relive the memorable moments of “Tanjiro Kamado, Unwavering Resolve Arc” and “Mugen Train Arc.” Follow Tanjiro through the story from the “Demon Slayer: Kimetsu no Yaiba” anime as he faces demons in order to turn his sister Nezuko, who has become a demon, back into a human. ",
+        "developer": "Developer: CyberConnect2",
+        "Platforms": ""
     }
 ]
