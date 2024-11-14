@@ -9302,5 +9302,173 @@
         "description": "The Hinokami Chronicles is a spectacular arena fighter from the team at CyberConnect2 that lets players relive the memorable moments of “Tanjiro Kamado, Unwavering Resolve Arc” and “Mugen Train Arc.” Follow Tanjiro through the story from the “Demon Slayer: Kimetsu no Yaiba” anime as he faces demons in order to turn his sister Nezuko, who has become a demon, back into a human. ",
         "developer": "Developer: CyberConnect2",
         "Platforms": ""
+    },
+    {
+        "name": "Metaphor: ReFantazio",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "64 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "81 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "101 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "84 Hours"
+            }
+        ],
+        "description": "The throne sits empty after the king’s assassination. With no heirs, the will of the late king decrees that the next monarch will be elected by the people, & thus begins your fight for the throne..",
+        "developer": "Developer: Studio Zero",
+        "Platforms": "Platforms: PC, PlayStation 4, PlayStation 5, Xbox Series X/S"
+    },
+    {
+        "name": "DIRT 5",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "8½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "14½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "23½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "14½ Hours"
+            }
+        ],
+        "description": "DIRT 5 is the boldest off-road racing experience created by Codemasters. Blaze a trail on routes across the world, covering gravel, ice, snow and sand, with a roster of cars ranging from rally icons to trucks, to GT heroes.",
+        "developer": "Developer: Codemasters",
+        "Platforms": ""
+    },
+    {
+        "name": "A Quiet Place: The Road Ahead",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "8½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "9 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "--"
+            },
+            {
+                "title": "All Styles",
+                "time": "8½ Hours"
+            }
+        ],
+        "description": "A Quiet Place: The Road Ahead is a single-player horror adventure game inspired by the critically acclaimed blockbuster movie franchise. Survive in silence.",
+        "developer": "Developer: Stormind Games",
+        "Platforms": "Platforms: PC, PlayStation 5, Xbox Series X/S"
+    },
+    {
+        "name": "A Short Hike",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "1½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "2 Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "4½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "2 Hours"
+            }
+        ],
+        "description": "Hike, climb, and soar through the peaceful mountainside landscapes of Hawk Peak Provincial Park as you make your way to the summit.",
+        "developer": "Developer: adamgryu",
+        "Platforms": "Platforms: Linux, Mac, Nintendo Switch, PC, PlayStation 4, Xbox One"
+    },
+    {
+        "name": "Castlevania Advance Collection",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "23 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "31½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "44½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "31 Hours"
+            }
+        ],
+        "description": "Count Dracula is once more back from the dead... Join the fight against Evil in the Castlevania Advance Collection, a compilation of timeless action-exploration masterpieces!",
+        "developer": "Developer: Konami Digital Entertainment",
+        "Platforms": "Platforms: Nintendo Switch, PC, PlayStation 4, Xbox One"
+    },
+    {
+        "name": "A Story About My Uncle",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "3 Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "4½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "9 Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "3½ Hours"
+            }
+        ],
+        "description": "A Story About My Uncle is a first person platforming adventure game about a boy who searches for his lost uncle, and ends up in a world he couldn’t imagine existed. The movement is a crucial part of the games core gameplay – focusing on swinging through the world with a grappling hook that gives the player a wonderful sense of speed and freedom. Soar through a game world with a unique art style and a mysterious story that unravels before you. ",
+        "developer": "Developer: Gone North Games",
+        "Platforms": "Platform: PC"
+    },
+    {
+        "name": "Braid, Anniversary Edition",
+        "details": [
+            {
+                "title": "Main Story",
+                "time": "4½ Hours"
+            },
+            {
+                "title": "Main + Sides",
+                "time": "5½ Hours"
+            },
+            {
+                "title": "Completionist",
+                "time": "10½ Hours"
+            },
+            {
+                "title": "All Styles",
+                "time": "6 Hours"
+            }
+        ],
+        "description": "Control the flow of time to solve puzzles in this new version of the indie classic, featuring fully repainted artwork, a new world of puzzles, and seriously in-depth commentary.",
+        "developer": "Developer: Thekla",
+        "Platforms": ""
     }
 ]
